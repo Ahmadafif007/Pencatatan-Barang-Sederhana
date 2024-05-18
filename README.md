@@ -1,6 +1,9 @@
 # 📌 Pencatatan-Barang-Sederhana
  Web pencatatan barang sederhana menggunakan php dan mySQL.
+ Di bawah ini adalah contoh tampilan pada halaman utama.
+ 
  <img src= "https://github.com/Ahmadafif007/Dokumentasi/blob/main/pencatatansederhana.png">
+ 
 # Fitur-Fitur Pada Website
  1. Login, Register, Logout
  2. Halaman tampilan utama
